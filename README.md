@@ -1,3 +1,4 @@
+
 # Latihan PHP Dasar
 
 PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa pemrograman
@@ -25,3 +26,10 @@ facebook, twitter, wikipedia dan situs besar lainnya.
 ![image](https://github.com/Kholidwahyudi15/lab2-php-dasar/blob/main/img/7.png?raw=true)
 ## 8. Penggunaan Perulangan dowhile pada php
 ![image](https://github.com/Kholidwahyudi15/lab2-php-dasar/blob/main/img/8.png?raw=true)
+# Contoh program sederhana menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan
+## source code
+![image](https://github.com/Kholidwahyudi15/lab2-php-dasar/blob/main/img/program1.png?raw=true)
+## tampilan awal
+![image](https://github.com/Kholidwahyudi15/lab2-php-dasar/blob/main/img/tmp1.png?raw=true)
+## output
+![image](https://github.com/Kholidwahyudi15/lab2-php-dasar/blob/main/img/output.png?raw=true)
